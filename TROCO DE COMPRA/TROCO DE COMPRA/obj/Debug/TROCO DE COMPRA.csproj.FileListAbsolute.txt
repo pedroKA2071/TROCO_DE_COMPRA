@@ -1,0 +1,8 @@
+C:\Users\pedro.hgaspar2\source\repos\TROCO_DE_COMPRA\TROCO DE COMPRA\TROCO DE COMPRA\bin\Debug\TROCO DE COMPRA.exe.config
+C:\Users\pedro.hgaspar2\source\repos\TROCO_DE_COMPRA\TROCO DE COMPRA\TROCO DE COMPRA\bin\Debug\TROCO DE COMPRA.exe
+C:\Users\pedro.hgaspar2\source\repos\TROCO_DE_COMPRA\TROCO DE COMPRA\TROCO DE COMPRA\bin\Debug\TROCO DE COMPRA.pdb
+C:\Users\pedro.hgaspar2\source\repos\TROCO_DE_COMPRA\TROCO DE COMPRA\TROCO DE COMPRA\obj\Debug\TROCO DE COMPRA.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\repos\TROCO_DE_COMPRA\TROCO DE COMPRA\TROCO DE COMPRA\obj\Debug\TROCO DE COMPRA.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hgaspar2\source\repos\TROCO_DE_COMPRA\TROCO DE COMPRA\TROCO DE COMPRA\obj\Debug\TROCO DE COMPRA.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\repos\TROCO_DE_COMPRA\TROCO DE COMPRA\TROCO DE COMPRA\obj\Debug\TROCO DE COMPRA.exe
+C:\Users\pedro.hgaspar2\source\repos\TROCO_DE_COMPRA\TROCO DE COMPRA\TROCO DE COMPRA\obj\Debug\TROCO DE COMPRA.pdb
